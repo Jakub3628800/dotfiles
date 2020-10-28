@@ -1,6 +1,4 @@
-keycode 66 = Escape
 clear lock
-keycode 9 = Caps_Lock
-keycode 166 = Left
-keycode 167 = Right
+keycode 66 = Escape
 
+keycode 9 = Caps_Lock
